@@ -1,2 +1,2 @@
 # Hello_World
-First Repository
+This is my repository for proyects created, just as a hobby.
